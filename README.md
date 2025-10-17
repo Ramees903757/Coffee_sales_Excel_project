@@ -76,6 +76,7 @@ To analyze retail sales data of a coffee shop chain and extract actionable insig
 - Analytical Thinking  
 
 ---
+## 🔗 **Dashboard Preview**
 <img width="1850" height="862" alt="Dashboard" src="https://github.com/user-attachments/assets/db792374-1828-4ec9-a9b4-5a29d68beee2" />
 
 ## ✨ **Author**
